@@ -1,0 +1,151 @@
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.dll.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.pdb
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csc.exe
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csc.exe.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csc.rsp
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csi.exe
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csi.exe.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\csi.rsp
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.AppContext.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Collections.Immutable.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Console.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.Compression.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.AccessControl.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Claims.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.ValueTuple.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\vbc.exe
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\vbc.exe.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\vbc.rsp
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe.config
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.Web.Infrastructure.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Helpers.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Mvc.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Razor.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Razor.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Helpers.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\System.Web.Mvc.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csprojAssemblyReference.cache
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CoreCompileInputs.cache
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CopyComplete
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.pdb
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EntityFramework.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.dll
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EntityFramework.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.xml
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.InitialData.resources
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.GenerateResource.cache
+C:\mvc\EFDbFirstApproachExample\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.QuantityColumn.resources
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\EFDbFirstApproachExample.pdb
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\csc.exe
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\csc.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\csc.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\csi.exe
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\csi.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\csi.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.AppContext.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Console.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.IO.Compression.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.AccessControl.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.IO.Pipes.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Security.Claims.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.ValueTuple.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\vbc.exe
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\vbc.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\vbc.rsp
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\EntityFramework.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\System.Web.Helpers.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\System.Web.Mvc.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\System.Web.Razor.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\System.Web.Webpages.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\EntityFramework.xml
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\EntityFramework.SqlServer.xml
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\System.Web.Razor.xml
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\System.Web.Webpages.xml
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\System.Web.Webpages.Deployment.xml
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\System.Web.Webpages.Razor.xml
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\System.Web.Helpers.xml
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\System.Web.Mvc.xml
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csprojAssemblyReference.cache
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.InitialData.resources
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.Migrations.QuantityColumn.resources
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.GenerateResource.cache
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CoreCompileInputs.cache
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.csproj.CopyComplete
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.dll
+C:\Users\lleka\Documents\Akademia\Seanca 11\16.06.+Overriding+the+Conventions\16.06. Overriding the Conventions\EFDbFirstApproachExample\obj\Debug\EFDbFirstApproachExample.pdb
